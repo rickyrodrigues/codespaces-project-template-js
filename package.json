@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://rickyrodrigues.github.io/myportfolio-2.0
+  "homepage": "https://rickyrodrigues.github.io/myportfolio-2.0",
 ;
   "scripts": {
     "start": "parcel",
